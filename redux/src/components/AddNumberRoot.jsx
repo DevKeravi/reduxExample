@@ -9,7 +9,6 @@ export default class AddNumberRoot extends Component {
 				<h1>Add Number Root</h1>
 				<AddNumber />
 			</div>
-
 		)
 	}
 }
